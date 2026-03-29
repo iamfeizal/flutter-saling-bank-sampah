@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "330574868143",
+    "project_id": "saling-banksampah",
+    "storage_bucket": "saling-banksampah.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330574868143:android:d6e48fcf25df42fd046e5a",
+        "android_client_info": {
+          "package_name": "id.salingbanksampah.salingbanksampah"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtwvPe_2YHLN1SO_p2Qh-nl6xcthLGsnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
