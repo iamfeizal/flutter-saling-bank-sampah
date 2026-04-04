@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
+import 'package:salingbanksampah/features/auth/presentation/screens/login_screen.dart';
 import 'firebase_options.dart';
 
 void main() async {
@@ -36,6 +37,6 @@ class MyHomePage extends StatefulWidget {
 class _MyHomePageState extends State<MyHomePage> {
   @override
   Widget build(BuildContext context) {
-    return Scaffold();
+    return LoginScreen(onLoginTapped: (email, password) {});
   }
 }
